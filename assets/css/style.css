@@ -1,0 +1,22 @@
+/* General Styling */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../images/disneybackground.jpg");
+    font-family: 'Baloo Chettan', cursive;
+}
+
+.jumbotron {
+    background: transparent;
+}
+
+#buttonsView {
+    display: inline;
+}
+
+#requestedGifs {
+    display: inline;
+}
