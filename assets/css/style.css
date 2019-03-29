@@ -17,6 +17,15 @@ body {
     display: inline;
 }
 
+button {
+    margin: 5px;
+}
+
 #requestedGifs {
+    display: inline-block;
+}
+
+.gifs {
     display: inline;
+    margin-right: 15px;
 }
